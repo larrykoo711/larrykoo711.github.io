@@ -1,0 +1,13 @@
+# 古老师的博客
+
+> 古老师的博客 - 专注云原生 |  🤖 AI 降临派 | 🧑‍💻 投身人工智能/ LLM / Agent | ✨ AIGC 创作This file contains links to all documentation sections.
+
+## Table of Contents
+
+- [关于我](/intro.md)
+- [AI 日记](/llm/index.md)
+- [100万亿Token告诉我们：AI模型的真实使用真相](/llm/openrouter-state-of-ai-2025.md): 基于 OpenRouter 100万亿Token使用数据的深度分析，揭示大模型行业的六大惊人发现
+- [让 Nano-Banana 生图不再"吃内存"：GCS 集成攻略](/llm/setup-gcs-for-nano-banana.md)
+- [开发日记](/posts/index.md)
+- [HHKB-PRO2-TypeS 开箱体验](/posts/hhkb-pro2-unboxing.md)
+- [TektonCD 入门 - 云原生 CI/CD](/posts/tektoncd-intro.md)
