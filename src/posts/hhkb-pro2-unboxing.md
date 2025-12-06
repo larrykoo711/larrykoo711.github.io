@@ -9,7 +9,6 @@ tag:
   - 机械键盘
   - 静电容
   - 开箱
-star: true
 excerpt: Happy Hacking Keyboard PRO2 Type-S 开箱体验，探索这款传奇键盘为何被众多程序员和极客们誉为"码农神器"。
 cover: /covers/hhkb-pro2-unboxing.jpg
 ---

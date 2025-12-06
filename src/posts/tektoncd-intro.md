@@ -8,7 +8,6 @@ tag:
   - Kubernetes
   - CI/CD
   - DevOps
-star: true
 excerpt: 深入了解 TektonCD，一个运行于 Kubernetes 之上的云原生 CI/CD 系统，探索其核心概念和实践应用。
 cover: /covers/tektoncd-intro.png
 ---

@@ -11,7 +11,7 @@ heroFullScreen: true
 #   - icon: github
 #     name: GitHub
 #     desc: 我的开源项目和代码仓库
-#     link: https://github.com/gumutianqi
+#     link: https://github.com/larrykoo711
 
 footer: © 2025 LarryKoo | AI 降临派
 ---

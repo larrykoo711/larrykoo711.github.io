@@ -9,6 +9,7 @@ tag:
   - VertexAI
   - Gemini
   - Nano-Banana
+star: true
 excerpt: 为 Nano‑Banana 集成 GCS，提供高效稳定的大图输入方案与生产级配置清单（CORS、生命周期、目录规范等）。
 cover: /covers/setup-gcs-for-nano-banana.jpg
 ---

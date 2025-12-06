@@ -29,6 +29,6 @@ title: 关于我
 ### 📬 联系方式
 
 - **Email**: [larry.koo711@gmail.com](mailto:larry.koo711@gmail.com)
-- **GitHub**: [gumutianqi](https://github.com/gumutianqi)
+- **GitHub**: [larrykoo711](https://github.com/larrykoo711)
 
 ---

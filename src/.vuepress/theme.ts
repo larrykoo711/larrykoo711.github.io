@@ -3,15 +3,15 @@ import { zhNavbar } from "./navbar/index.js";
 import { zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://gumutianqi.github.io",
+  hostname: "https://larrykoo711.github.io",
 
   author: {
     name: "古老师 (LarryKoo)",
-    url: "https://gumutianqi.github.io",
+    url: "https://larrykoo711.github.io",
     email: "larry.koo711@gmail.com",
   },
   logo: "/logo.png",
-  repo: "gumutianqi",
+  repo: "larrykoo711",
   docsDir: "src",
   // navbar
   navbar: zhNavbar,
@@ -24,8 +24,8 @@ export default hopeTheme({
     intro: "/intro.html",
     timeline: "时光轴",
     medias: {
-      GitHub: "https://github.com/gumutianqi",
-      Twitter: "https://x.com/gumutianqi"
+      GitHub: "https://github.com/larrykoo711",
+      Twitter: "https://x.com/larrykooisai"
     }
   },
   metaLocales: {
@@ -39,6 +39,11 @@ export default hopeTheme({
   },
   plugins: {
     blog: true,
+    feed: {
+      atom: true,
+      json: true,
+      rss: true,
+    },
     // 评论功能配置 - 需要时取消注释并配置你的实际参数
     // comment: {
     //   provider: "Giscus",

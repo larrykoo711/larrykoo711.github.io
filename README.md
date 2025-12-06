@@ -4,7 +4,7 @@
 
 ## 🌐 在线访问
 - 主页：`https://larrykoo.com`
-- 备用：`https://gumutianqi.github.io`
+- 备用：`https://larrykoo711.github.io`
 
 ## 🏷️ Tags
 `#AI` `#LLM` `#Agent` `#CloudNative` `#Kubernetes` `#DevOps` `#Observability` `#Architecture` `#Performance` `#RAG` `#VuePress`
@@ -20,8 +20,8 @@
 - 分类阅读：按「AI/LLM」「云原生」「工程实践」等分类浏览
 
 ## 👇 关注我
-- GitHub：`https://github.com/gumutianqi`
-- X（Twitter）：`https://x.com/gumutianqi`
+- GitHub：`https://github.com/larrykoo711`
+- X（Twitter）：`https://x.com/larrykooisai`
 
 ## 💬 反馈与交流
 欢迎在文章下留言，或在 GitHub 提交 Issue 交流观点、问题与建议。
